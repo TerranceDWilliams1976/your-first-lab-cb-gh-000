@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 dog
+=======
+dog
+>>>>>>> 68aca921c76a6315e613b0cf7ba4455c41c64750
